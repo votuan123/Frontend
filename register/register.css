@@ -1,0 +1,30 @@
+#e{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.res{
+  padding-left: 100px;
+}
+.input{
+  margin-bottom: 15px;
+  background-color: cadetblue;
+  margin-right: 10px;
+  width: 500px;
+  height: 30px;
+  font-size: 10px;
+}
+#select{
+  background: darkgreen;
+  color: aliceblue;
+  text-align: center;
+  width: 500px;
+  height: 40px;
+}
+a:link,a:visited{
+  color: blue;
+  text-decoration: none;
+}
+a:hover,a:active{
+  color: blueviolet;
+  text-decoration: underline;
+}
+
